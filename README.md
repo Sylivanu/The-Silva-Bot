@@ -1,5 +1,5 @@
-#### HERMIT MD WHATSAPP BOT
-Hermit-md - Simple whatsapp Multi Device whatsapp bot.
+#### The Silva Bot WHATSAPP BOT
+The Silva Bot - Simple whatsapp Multi Device whatsapp bot.
 
 ***
 
@@ -7,7 +7,7 @@ Hermit-md - Simple whatsapp Multi Device whatsapp bot.
 
 1. Scan the QR and copy it
     <br>
-<a href='https://hermit.adithyan.xyz/qr' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://hermit.adithyan.xyz/qr' target="_blank"><img alt='SCAN QR OR PAIR CODE' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 #### DEPLOY TO HEROKU 
 
